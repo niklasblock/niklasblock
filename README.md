@@ -23,10 +23,6 @@ Currently, I work at a company that manufactures precision length measuring devi
 - **[budgettracker](https://github.com/niklasblock/budgettracker)** — A local web-based application to track personal finances.
 - **[readlater](https://github.com/niklasblock/readlater)** — A local-first read-later system with Chrome extension, Web interface, macOS desktop app
 
-Save and manage links locally with full control over your data.
-
-👉 Explore all projects here: https://github.com/niklasblock
-
 ## 📈 What I'm focusing on
 - Writing cleaner, more maintainable code
 - Expanding into full-stack development
