@@ -19,18 +19,9 @@ Currently, I work at a company that manufactures precision length measuring devi
 - Interests: Clean Code, Automation, Data Handling
 
 ## 📌 Projects
-
-### 🔹 PyCheck
-CLI tool that analyzes Python files for clean code practices and helps improve code quality.
-
-### 🔹 Budget Tracker
-A web-based application for tracking personal finances, built with JavaScript.
-
-### 🔹 ReadLater
-A local-first read-later system with:
-- Chrome extension  
-- Web interface  
-- macOS desktop app  
+- **[pycheck](https://github.com/niklasblock/pycheck)** — CLI tool that analyzes Python code for clean code practices and helps improve code quality.
+- **[budgettracker](https://github.com/niklasblock/budgettracker)** — A local web-based application to track personal finances.
+- **[readlater](https://github.com/niklasblock/readlater)** — A local-first read-later system with Chrome extension, Web interface, macOS desktop app
 
 Save and manage links locally with full control over your data.
 
