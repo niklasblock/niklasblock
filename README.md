@@ -22,6 +22,7 @@ Currently, I work at a company that manufactures precision length measuring devi
 - **[pycheck](https://github.com/niklasblock/pycheck)** — CLI tool that analyzes Python code for clean code practices and helps improve code quality.
 - **[budgettracker](https://github.com/niklasblock/budgettracker)** — A local web-based application to track personal finances.
 - **[readlater](https://github.com/niklasblock/readlater)** — A local-first read-later system with Chrome extension, Web interface, macOS desktop app
+- **[dataview](https://github.com/niklasblock/dataview)** - A Python-based storage analysis and file intelligence platform.
 
 ## 📈 What I'm focusing on
 - Writing cleaner, more maintainable code
@@ -30,7 +31,6 @@ Currently, I work at a company that manufactures precision length measuring devi
 
 ## 📫 Contact
 - GitHub: https://github.com/niklasblock  
-- (optional) Add Email or LinkedIn here
 
 ---
 
